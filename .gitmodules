@@ -1,3 +1,0 @@
-[submodule "src/backend_scene"]
-	path = src/backend_scene
-	url = https://github.com/RainyPixel/wallpaper-scene-renderer.git
